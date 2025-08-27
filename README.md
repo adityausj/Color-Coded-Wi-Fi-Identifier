@@ -13,3 +13,12 @@ https://github.com/adityausj
 - **Ignore** selected SSIDs/BSSIDs so they don’t reappear
 - **Auto-refresh** toggle (every 10 seconds)
 - Saves state in JSON files (portable, human-readable)
+
+## ⚙️ Requirements
+- Python 3.8+
+- Tkinter (comes with most Python installations)
+- pywifi
+
+Install pywifi:
+```bash
+pip install pywifi
